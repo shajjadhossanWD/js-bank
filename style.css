@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(0, 0, 0, 0.377);
+}
+
+.depo{
+    background-color: rgba(62, 62, 218, 0.623);
+    color: white;
+    border-radius: 7px;
+    
+}
+.withdraw{
+    background-color: teal;
+    color: white;
+    border-radius: 7px;
+}
+.totalBlnc{
+    background-color: yellowgreen;
+    color: white;
+    border-radius: 7px;
+}
+.depocalc{
+    color: white;
+    background-color: coral;
+    border-radius: 7px;
+}
+.withdrawCalc{
+    color: white;
+    background-color: blueviolet;
+    border-radius: 7px;
+}
